@@ -1,0 +1,25 @@
+.adminProduct{
+    height: 92vh;
+    width: 100vw;
+    background: linear-gradient(190deg,red,blue);
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-family: cursive;
+}
+
+.adminProduct label{
+    margin: 10px 20px;
+}
+
+.adminProduct form{
+    margin: 10px 20px;
+    background-color: yellow;
+    padding: 25px;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.adminProduct button{
+    transform: translate(175px);
+}

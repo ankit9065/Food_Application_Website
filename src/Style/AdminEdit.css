@@ -1,0 +1,31 @@
+.editProduct{
+    height: 92vh;
+    width: 100vw;
+    background: linear-gradient(180deg,rgb(56, 146, 210),rgb(48, 161, 48));
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-family: cursive;
+}
+
+.editProduct label{
+    margin: 10px 20px;
+}
+.cover h4{
+    text-align: center;
+    margin-top: 25px;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.editProduct form{
+    margin: 10px 20px;
+    background-color: yellow;
+    padding: 25px;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.editProduct button{
+    transform: translate(175px);
+}

@@ -1,0 +1,111 @@
+{
+  "Manager": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "a0d0",
+      "name": "mona",
+      "email": "mona@gmail.com",
+      "phone": "0987654321",
+      "password": "mona"
+    },
+    {
+      "id": "2dd9",
+      "name": "ankit",
+      "email": "ankit@gmail.com",
+      "phone": "1234567890",
+      "password": "ankit"
+    }
+  ],
+  "Product": [
+    {
+      "category": "",
+      "restaurant": "Grillify",
+      "name": "Paneer Tikka",
+      "price": "250",
+      "quantity": "1",
+      "description": "Tatsey & delicious",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2020/09/paneer-tikka-recipe-2.jpg",
+      "rating": "3.5",
+      "id": "a255"
+    },
+    {
+      "category": "Starters",
+      "restaurant": "Mom's Kitchen",
+      "name": "Dahi Vada",
+      "price": "169",
+      "quantity": "1",
+      "description": "Good",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2021/09/dahi-vada-2.jpg",
+      "rating": 4,
+      "id": "85f7"
+    },
+    {
+      "id": "85f7",
+      "category": "Starters",
+      "restaurant": "The Roll Shop",
+      "name": "Bread Rolls",
+      "price": "200",
+      "quantity": "1",
+      "description": "Bread id fresh",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2018/03/bread-roll-recipe-12.jpg",
+      "rating": 4
+    },
+    {
+      "id": "85f7",
+      "category": "Starters",
+      "restaurant": "Chat Corner",
+      "name": "Masala Papad",
+      "price": "80",
+      "quantity": "1",
+      "description": "Spicy and Sweet",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2015/07/IMG_0245-Copy.jpg",
+      "rating": 4
+    },
+    {
+      "category": "Veg",
+      "restaurant": "Gujarati House",
+      "name": "Khaman Dhokla",
+      "price": "199",
+      "quantity": "1",
+      "description": "Dhokla is fresh and tastey",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2013/12/khaman-dhokla-recipe-1-1024x1536.jpg",
+      "rating": "4.5",
+      "id": "585d"
+    },
+    {
+      "category": "Desserts",
+      "restaurant": "Gujarati House",
+      "name": "Aamras",
+      "price": "150",
+      "quantity": "2",
+      "description": "It's so yaummy and very thick.",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2022/04/aamras-1-1024x1536.jpg",
+      "rating": "4",
+      "id": "b352"
+    },
+    {
+      "id": "0328",
+      "category": "Veg",
+      "restaurant": "Mom's Kitchen",
+      "name": "Panner Biryani",
+      "price": "350",
+      "quantity": "1",
+      "description": "Panner quality is good.",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2019/02/paneer-dum-biryani-recipe-15.jpg",
+      "rating": "3"
+    },
+    {
+      "id": "59c0",
+      "category": "Desserts",
+      "restaurant": "Sweets & Treats",
+      "name": "Dry Fruits Modak",
+      "price": "180",
+      "quantity": "1",
+      "description": "Modak is fresh",
+      "thumbnail": "https://www.spiceupthecurry.com/wp-content/uploads/2020/08/dry-fruits-modak-1-1024x1536.jpg",
+      "rating": "4"
+    }
+  ]
+}
